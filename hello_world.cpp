@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    // Выводим приветствие
+    // Output йоyйоу
     std::cout << "Hello world" << endl;
     // Объявляем переменную для хранения имени пользователя
     std::string name;
